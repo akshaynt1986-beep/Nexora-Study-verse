@@ -1,0 +1,16 @@
+{
+  "name": "Anime StudyVerse",
+  "short_name": "StudyVerse",
+  "description": "An all-in-one anime-themed productivity platform for JEE Main, JEE Advanced, and NEET aspirants.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

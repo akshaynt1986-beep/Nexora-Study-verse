@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "An intelligent all-in-one preparation operating system for JEE and NEET aspirants with AI Tutor, AI Mentor, Smart Planner, Complete Syllabus Roadmap, PYQs, Mock Tests, Mistake Book, Revision Engine, Analytics, Notes, Reference Resources, Focus Timer, and Gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
